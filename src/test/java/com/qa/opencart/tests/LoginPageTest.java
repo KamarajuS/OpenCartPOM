@@ -16,7 +16,7 @@ import io.qameta.allure.Story;
 
 
 @Epic("EPIC - 100: design login for open cart app")
-@Story("US-Login: 101: design login page features for open cart")
+@Story("US-Login: 101: design login page features for open cart aaplication")
 public class LoginPageTest extends BaseTest {
 	
     private final Logger logger = Logger.getLogger(LoginPageTest.class);
